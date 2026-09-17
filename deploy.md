@@ -1,3 +1,3 @@
 # Deploy notes
-Deploy window: to be decided
+Deploy window: 22:00 UTC
 Contact: ops team
